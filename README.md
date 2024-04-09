@@ -508,7 +508,7 @@ Even experienced students are likely to benefit from the linked content!
 
     In the command line, you can run the local tests with:
     ```sh
-    ./local_grader.py assignment.ipynb
+    python3 ./local_grader.py assignment.ipynb
     ```
 
     If all goes well, you should see something like the following:
